@@ -96,6 +96,9 @@ nav ul li a {
     align-items: center;
     justify-content: center;
 } */
+ .owl-carousel{
+    display: block;
+ }
 .owl-nav{
  position: relative;
  bottom: 300px;
@@ -442,6 +445,11 @@ footer {
     color: #777;
     margin: 0;
 }
+.footer-bottom img {
+    margin-top: 10px;
+    max-width: 25%;
+    height: 20%;
+}
 
 .menu-lang ul {
     display: flex;
@@ -466,9 +474,4 @@ color: #555555;}
 }
 .payment-options{
     margin-right: 10px;
-}
-.footer-bottom img {
-    margin-top: 10px;
-    max-width: 25%;
-    height: 20%;
 }
