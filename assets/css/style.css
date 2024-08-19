@@ -98,6 +98,7 @@ nav ul li a {
 } */
  .owl-carousel{
     display: block;
+    object-fit: cover;
  }
 .owl-nav{
  position: relative;
